@@ -8,7 +8,7 @@ namespace JobAppTest
 {
     class Program
     {
-        // Response to job application at https://kaseya.bamboohr.co.uk/jobs/view.php?id=79&source=indeed&src=indeed&postedDate=2017-03-08
+        // Response to a programming question for a job application
 
         static void Main(string[] args)
         {
